@@ -1,0 +1,406 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class='no-js'>
+<!--<![endif]-->
+
+<head>
+  <meta charset='utf-8'>
+  <meta content='width=device-width, initial-scale=1.0' name='viewport'>
+  <meta content='' name='description'>
+  <meta content='' name='author'>
+  <title>Vagenta</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link href="css2?family=Oswald:wght@300&display=swap" rel="stylesheet">
+  <link href="stylesheets/globals.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="stylesheets/typography.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="stylesheets/grid.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="stylesheets/ui.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="stylesheets/forms.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="stylesheets/style.css" media="screen" rel="stylesheet" type="text/css">
+  <script src="javascripts/jquery-1.7.1.js" type="text/javascript"></script>
+  <script src="javascripts/terrific-1.1.1.js" type="text/javascript"></script>
+
+  <script src="javascripts/app.js" type="text/javascript"></script>
+
+  <script type='text/javascript'>
+    //<![CDATA[
+    /* terrificjs bootstrap */
+    (function ($) {
+      $(document).ready(function () {
+        var $page = $('body');
+        var config = {
+          dependencyPath: {
+            plugin: 'javascripts/'
+          }
+        };
+        var application = new Tc.Application($page, config);
+        application.registerModules();
+        application.start();
+      });
+    })(Tc.$);
+      //]]>
+  </script>
+</head>
+
+<body>
+  <div class="order_container">
+    <div class='mod modStylePanel'>
+      <a class='switch to-open' href='#' style="display: none;">switch</a>
+      <div class='panel-container'>
+        <h4>Background Patterns</h4>
+        <ul>
+          <li><a id="pattern-1" class="bg_pattern" href="javascript:void(0);">pattern 1</a></li>
+          <li><a id="pattern-2" class="bg_pattern" href="javascript:void(0);">pattern 2</a></li>
+          <li><a id="pattern-3" class="bg_pattern" href="javascript:void(0);">pattern 3</a></li>
+          <li><a id="pattern-4" class="bg_pattern" href="javascript:void(0);">pattern 4</a></li>
+          <li><a id="pattern-5" class="bg_pattern" href="javascript:void(0);">pattern 5</a></li>
+          <li><a id="pattern-6" class="bg_pattern" href="javascript:void(0);">pattern 6</a></li>
+          <li><a id="pattern-7" class="bg_pattern" href="javascript:void(0);">pattern 7</a></li>
+          <li><a id="pattern-8" class="bg_pattern" href="javascript:void(0);">pattern 8</a></li>
+          <li><a id="pattern-9" class="bg_pattern" href="javascript:void(0);">pattern 9</a></li>
+          <li><a id="pattern-10" class="bg_pattern" href="javascript:void(0);">pattern 10</a></li>
+        </ul>
+        <h4>Color schemes</h4>
+        <ul>
+          <li><a id="red" class="color_scheme" href="javascript:void(0);">Red</a></li>
+          <li><a id="cyan" class="color_scheme" href="javascript:void(0);">Cyan</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class='container' id='header'>
+      <div class='row'>
+        <div class=' columns push-ten'>
+          <div class="mod modSocial icons" data-connectors="1">
+            <img src="images/social/whatsapp-fill.png" alt="">
+            <img src="images/social/telegram-fill.png" alt="">
+            <img src="images/social/viber.png" alt="">
+            <img src="images/social/vk-social-network-logo.png" alt="">
+          </div>
+        </div>
+      </div>
+      <div class='row'>
+        <div class='two columns'>
+          <div class='mod modLogo'>
+            <h2>
+              <a href="index.html">Vagenta</a>
+            </h2>
+          </div>
+        </div>
+        <div class='ten columns'>
+          <div class='mod modNav right'>
+            <ul class="nav-bar">
+              <li>
+                <a class="main current" href="portfolio.html">УСЛУГИ</a>
+              </li>
+              <li>
+                <a class="main" href="blog.html">МАГАЗИН</a>
+              </li>
+              <li>
+                <a class="main" href="services.html">ОНЛАЙН ЗАКАЗ</a>
+              </li>
+              <li>
+                <a class="main" href="contact.html">КОНТАКТЫ</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="twelve columns">
+          <div class="mod modSectionHeader" data-connectors="1">
+            <h3 class="text-center uslug">
+              ОНЛАЙН ЗАКАЗ
+            </h3>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="order">
+          <div class="order_titles">
+            <div class="title_ord">
+              <div class="title">
+                <div class="number"><span>1</span></div>
+                <p>Услуги</p>
+              </div>
+              <div class="order_input">
+                <select name="" id="">
+                  <option value="0" style="display: none;">выбрать</option>
+                  <option value="1">Печать</option>
+                  <option value="2">Штамп</option>
+                  <option value="3">Факсимили</option>
+                  <option value="4">Эклибрис</option>
+                </select>
+              </div>
+            </div>
+            <div class="line"></div>
+            <div class="title_ord">
+              <div class="title">
+                <div class="number"><span>2</span></div>
+                <p>Статус</p>
+              </div>
+              <div class="order_input">
+                <select name="" id="">
+                  <option value="0" style="display: none;">выбрать</option>
+                  <option value="1">ИП</option>
+                  <option value="2">ООО</option>
+                  <option value="3">ЗАО</option>
+                  <option value="4">ВРАЧ</option>
+                  <option value="5">САМОЗАНЯТЫЙ</option>
+                </select>
+              </div>
+            </div>
+            <div class="line"></div>
+            <div class="title_ord">
+              <div class="title">
+                <div class="number"><span>3</span></div>
+                <p>Название</p>
+              </div>
+              <div class="order_input">
+                <input type="text" placeholder="ЗАЙНУЛИН">
+              </div>
+            </div>
+            <div class="line"></div>
+            <div class="title_ord">
+              <div class="title">
+                <div class="number"><span>4</span></div>
+                <p>ИНН/ОГРН</p>
+              </div>
+              <div class="order_input">
+                <input type="text" placeholder="027695158262/32002800003890">
+              </div>
+            </div>
+            <div class="line"></div>
+            <div class="title_ord">
+              <div class="title">
+                <div class="number"><span>5</span></div>
+                <p>Шаблон</p>
+                <!-- <button class="popup_btn">Шаблон</button> -->
+              </div>
+              <div class="order_input">
+                <!-- <input type="none" placeholder="GRM-46040, 40мм (6)"> -->
+                <label for="" class="popup_btn">Выбрать</label>
+              </div>
+            </div>
+            <div class="line"></div>
+            <div class="title_ord">
+              <div class="title">
+                <div class="number"><span>6</span></div>
+                <p>Оснастка</p>
+              </div>
+              <div class="order_input">
+                <input type="text" placeholder="id2323, 40мм (4232)">
+              </div>
+            </div>
+            <div class="line"></div>
+            <div class="title_ord">
+              <div class="title">
+                <div class="number"><span>7</span></div>
+                <p>Логотип</p>
+              </div>
+              <div class="order_input">
+                <label for="choose-file" class="custom-file-upload" id="choose-file-label">
+                  Выбрать
+                </label>
+                <input name="uploadDocument" type="file" id="choose-file" accept=".jpg,.jpeg,.pdf,doc,docx,application/msword,.png" style="display: none;">
+              </div>
+            </div>
+            <div class="line"></div>
+            <div class="title_ord">
+              <div class="title">
+                <div class="number"><span>8</span></div>
+                <p>Срок Изг-я</p>
+              </div>
+              <div class="order_input">
+                <input type="text" placeholder="1 час,300 руб">
+              </div>
+            </div>
+            <div class="line"></div>
+            <div class="title_ord">
+              <div class="title">
+                <div class="number"><span>9</span></div>
+                <p>Количество</p>
+              </div>
+              <div class="order_input">
+                <div class="counter">
+                  <button class="min">-</button>
+                  <span class="res">0 </span>
+                  <button class="plus">+</button>
+                </div>
+              </div>
+            </div>
+            <div class="line"></div>
+            <div class="title_ord" style="padding-bottom: 20px;">
+              <div class="title">
+                <div class="number"><span>10</span></div>
+                <p>Доставка</p>
+              </div>
+              <div class="order_input">
+                <input type="text" placeholder="САМОВЫВОЗ, бесплатно">
+              </div>
+            </div>
+            <div class="price">
+              <span>750 рублей</span>
+            </div>
+            <div class="order_link">
+              <a href="#">СДЕЛАТЬ ЗАКАЗ</a>
+            </div>
+          </div>
+          <div class="order_images">
+            <div class="order_img_one">
+              <p class="pricee">350 руб</p>
+              <img src="images/services_materials/katalog-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/OOO-ID(002).png" alt="">
+              <div class="ides">
+                <p>id 2323</p>
+                <p>D-40 mm</p>
+              </div>
+            </div>
+            <div class="order_img_one">
+              <p class="pricee">400 руб</p>
+              <img src="images/services_materials/katalog-ostnastka/COLOP-8x52.jpg" alt="">
+              <div class="ides">
+                <p>GRM-46040</p>
+                <p>D-40 mm</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="popup_container">
+    <div class="popup_title df">
+      <h4>Шаблоны</h4>
+      <button class="popub_close">&times;</button>
+    </div>
+    <div class="popup_images">
+      <div class="row_one df">
+        <div class="images">
+          <a href="order_one.html">
+            <img src="images/services_materials/katalog-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/OOO-ID(001).png" alt="">
+            <p>id 147, D-40 mm</p>
+          </a>
+        </div>
+        <div class="images">
+          <a href="order_two.html">
+            <img src="images/services_materials/katalog-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/OOO-ID(002).png" alt="">
+            <p>id 147, D-40 mm</p>
+          </a>
+        </div>
+        <div class="images">
+          <a href="order_three.html">
+            <img src="images/services_materials/katalog-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/OOO-ID(003).png" alt="">
+            <p>id 147, D-40 mm</p>
+          </a>
+        </div>
+        <div class="images">
+          <a href="order_four.html">
+            <img src="images/services_materials/katalog-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/OOO-ID(004).png" alt="">
+            <p>id 147, D-40 mm</p>
+          </a>
+        </div>
+      </div>
+      <div class="row_two df">
+        <div class="images">
+          <img src="images/services_materials/katalog-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/OOO-ID(005).png" alt="">
+          <p>id 147, D-40 mm</p>
+        </div>
+        <div class="images">
+          <img src="images/services_materials/katalog-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/OOO-ID(006).png" alt="">
+          <p>id 147, D-40 mm</p>
+        </div>
+        <div class="images">
+          <img src="images/services_materials/katalog-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/OOO-ID(007).png" alt="">
+          <p>id 147, D-40 mm</p>
+        </div>
+        <div class="images">
+          <img src="images/services_materials/katalog-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/%D0%98%D0%9F-ID%28001%29.png" alt="">
+          <p>id 147, D-40 mm</p>
+        </div>
+      </div>
+      <div class="row_three df">
+        <div class="images">
+          <img src="images/services_materials/katalog-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/%D0%98%D0%9F-ID%28002%29.png" alt="">
+          <p>id 147, D-40 mm</p>
+        </div>
+        <div class="images">
+          <img src="images/services_materials/katalog-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/%D0%98%D0%9F-ID%28003%29.png" alt="">
+          <p>id 147, D-40 mm</p>
+        </div>
+        <div class="images">
+          <img src="images/services_materials/katalog-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/OOO-ID(001).png" alt="">
+          <p>id 147, D-40 mm</p>
+        </div>
+        <div class="images">
+          <img src="images/services_materials/katalog-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/OOO-ID(004).png" alt="">
+          <p>id 147, D-40 mm</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container" id="footer" style="display: none;">
+    <div class="row">
+      <div class="foot">
+        <h6>Казань ул.Ф.Амирхана</h6>
+        <div class="social">
+          <img src="images/social/whatsapp-fill.png" alt="">
+          <img src="images/social/telegram-fill.png" alt="">
+          <img src="images/social/viber.png" alt="">
+          <img src="images/social/vk-social-network-logo.png" alt="">
+        </div>
+
+        <h6>89370090705 / info@mail.ru</h6>
+      </div>
+    </div>
+  </div>
+  <div class="container" style="display: none;">
+    <p class="copy">© 2022. Печати и Штампы в Казани</p>
+  </div>
+  <script src="ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script>
+    $(document).ready(function () {
+      $('#choose-file').change(function () {
+        var i = $(this).prev('label').clone();
+        var file = $('#choose-file')[0].files[0].name;
+        $(this).prev('label').text(file);
+      });
+    });
+  </script>
+  <script>
+    const min = document.querySelector('.min')
+    const plus = document.querySelector('.plus')
+    const res = document.querySelector('.res')
+
+    min.addEventListener('click', function () {
+      res.innerText = Number(res.innerText) - 1;
+    })
+    plus.addEventListener('click', function () {
+      res.innerText = Number(res.innerText) + 1;
+    })
+
+    const popup_btn = document.querySelector('.popup_btn')
+    const popub_close = document.querySelector('.popub_close')
+    const popup_container = document.querySelector('.popup_container')
+    const order = document.querySelector('.order_container')
+
+    popup_btn.addEventListener('click', function () {
+      popup_container.style.display = 'block'
+      order.style.display = 'none'
+    })
+    popub_close.addEventListener('click', function () {
+      order.style.display = 'block'
+      popup_container.style.display = 'none'
+    })
+  </script>
+  <link href='../css?family=Droid+Serif:400,400italic|Droid+Sans' rel='stylesheet' type='text/css'>
+</body>
+
+</html>

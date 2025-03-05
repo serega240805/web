@@ -1,0 +1,544 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\ajax\libs\font-awesome\6.2.0\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/webfonts/fa-brands-400.ttf
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\ajax\libs\font-awesome\6.2.0\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/webfonts/fa-brands-400.woff2
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\ajax\libs\font-awesome\6.2.0\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/webfonts/fa-regular-400.ttf
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\ajax\libs\font-awesome\6.2.0\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/webfonts/fa-regular-400.woff2
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\ajax\libs\font-awesome\6.2.0\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/webfonts/fa-solid-900.ttf
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\ajax\libs\font-awesome\6.2.0\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/webfonts/fa-solid-900.woff2
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\ajax\libs\font-awesome\6.2.0\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/webfonts/fa-v4compatibility.ttf
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\ajax\libs\font-awesome\6.2.0\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/webfonts/fa-v4compatibility.woff2
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\ajax\libs\font-awesome\6.2.0\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\ajax\libs\jquery\3.3.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+Content Type: font/ttf
+
+Uri: https://voluble-lokum-25daa8.netlify.app/3-columns.html
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\3-columns.html
+Content Type: text/html
+
+Uri: https://voluble-lokum-25daa8.netlify.app/4-columns.html
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\4-columns.html
+Content Type: text/html
+
+Uri: https://voluble-lokum-25daa8.netlify.app/blog.html
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\blog.html
+Content Type: text/html
+
+Uri: https://voluble-lokum-25daa8.netlify.app/case.html
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\case.html
+Content Type: text/html
+
+Uri: https://voluble-lokum-25daa8.netlify.app/contact.html
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\contact.html
+Content Type: text/html
+
+Uri: https://voluble-lokum-25daa8.netlify.app/fonts/11325.ttf
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\fonts\11325.ttf
+Content Type: font/ttf
+
+Uri: https://voluble-lokum-25daa8.netlify.app/fonts/georgia.ttf
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\fonts\georgia.ttf
+Content Type: font/ttf
+
+Uri: https://voluble-lokum-25daa8.netlify.app/fonts/steelfish_bold.otf
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\fonts\steelfish_bold.otf
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: https://voluble-lokum-25daa8.netlify.app/fonts/stell/steelfish.woff
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\fonts\stell\steelfish.woff
+Content Type: application/font-woff
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/категории 2/1.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\категории 2\1.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/категории 2/2.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\категории 2\2.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/категории 2/3.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\категории 2\3.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/категории 2/4.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\категории 2\4.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/категории/рамка2.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\категории\рамка2.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/категории/1.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\категории\1.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/категории/2.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\категории\2.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/категории/3.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\категории\3.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/категории/4.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\категории\4.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/надпись.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\надпись.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/blog-nav/blognav_arrows.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\blog-nav\blognav_arrows.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/blog-nav/blognav_arrows_cyan.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\blog-nav\blognav_arrows_cyan.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/blog-nav/blognav_bg.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\blog-nav\blognav_bg.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/blog-post/avatar.jpg
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\blog-post\avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/blog-post/blockquote_bg.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\blog-post\blockquote_bg.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/blog-post/blog_1.jpg
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\blog-post\blog_1.jpg
+Content Type: image/jpeg
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/blog-post/comments_bg.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\blog-post\comments_bg.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/blog-post/comments_bg_cyan.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\blog-post\comments_bg_cyan.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/blog-post/section_bg.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\blog-post\section_bg.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/case-study/case_study.jpg
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\case-study\case_study.jpg
+Content Type: image/jpeg
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/comment-form/comment_bg.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\comment-form\comment_bg.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/comment-form/comment_bg_cyan.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\comment-form\comment_bg_cyan.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/contact-info/mail-icon-cyan.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\contact-info\mail-icon-cyan.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/contact-info/mail-icon.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\contact-info\mail-icon.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/contact-info/phone-icon-cyan.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\contact-info\phone-icon-cyan.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/contact-info/phone-icon.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\contact-info\phone-icon.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/contact-info/skype-icon-cyan.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\contact-info\skype-icon-cyan.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/contact-info/skype-icon.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\contact-info\skype-icon.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/contact-info/vcard-icon-cyan.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\contact-info\vcard-icon-cyan.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/contact-info/vcard-icon.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\contact-info\vcard-icon.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/footer_bg.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\footer_bg.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/footer_bg_cyan.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\footer_bg_cyan.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/gallery/work_2.jpg
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\gallery\work_2.jpg
+Content Type: image/jpeg
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/get-in-touch/contact_form_bg.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\get-in-touch\contact_form_bg.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/header_bg2.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\header_bg2.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/header_bg_cyan.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\header_bg_cyan.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/logo-cyan.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\logo-cyan.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/LOGO2.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\LOGO2.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/logo_for_title.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\logo_for_title.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/misc/button-gloss.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\misc\button-gloss.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/misc/custom-form-sprites.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\misc\custom-form-sprites.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/misc/input-bg-outset.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\misc\input-bg-outset.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/nav/sub_nav_bg.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\nav\sub_nav_bg.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/nivo-slider/arrows.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\nivo-slider\arrows.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/nivo-slider/icons.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\nivo-slider\icons.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/nivo-slider/loading.gif
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\nivo-slider\loading.gif
+Content Type: image/gif
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/nivo-slider/slider_1.jpg
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\nivo-slider\slider_1.jpg
+Content Type: image/jpeg
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/nivo-slider/slider_2.jpg
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\nivo-slider\slider_2.jpg
+Content Type: image/jpeg
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/nivo-slider/slider_3.jpg
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\nivo-slider\slider_3.jpg
+Content Type: image/jpeg
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/nivo-slider/slider_4.jpg
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\nivo-slider\slider_4.jpg
+Content Type: image/jpeg
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/pattern-1.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\pattern-1.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/pattern-10.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\pattern-10.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/pattern-2.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\pattern-2.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/pattern-3.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\pattern-3.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/pattern-4.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\pattern-4.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/pattern-5.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\pattern-5.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/pattern-6.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\pattern-6.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/pattern-7.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\pattern-7.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/pattern-8.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\pattern-8.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/pattern-9.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\pattern-9.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/section-header/section_header_bg.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\section-header\section_header_bg.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services/service_item_bg.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services\service_item_bg.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services/strategy-and-manage-icon.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services\strategy-and-manage-icon.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services/web-design-icon.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services\web-design-icon.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services/web-development-icon.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services\web-development-icon.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services_materials/katalog-шаблоны/ИП-ID(001).png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services_materials\katalog-шаблоны\ИП-ID(001).png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services_materials/katalog-шаблоны/ИП-ID(002).png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services_materials\katalog-шаблоны\ИП-ID(002).png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services_materials/katalog-шаблоны/ИП-ID(003).png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services_materials\katalog-шаблоны\ИП-ID(003).png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services_materials/katalog-шаблоны/OOO-ID(001).png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services_materials\katalog-шаблоны\OOO-ID(001).png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services_materials/katalog-шаблоны/OOO-ID(002).png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services_materials\katalog-шаблоны\OOO-ID(002).png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services_materials/katalog-шаблоны/OOO-ID(003).png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services_materials\katalog-шаблоны\OOO-ID(003).png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services_materials/katalog-шаблоны/OOO-ID(004).png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services_materials\katalog-шаблоны\OOO-ID(004).png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services_materials/katalog-шаблоны/OOO-ID(005).png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services_materials\katalog-шаблоны\OOO-ID(005).png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services_materials/katalog-шаблоны/OOO-ID(006).png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services_materials\katalog-шаблоны\OOO-ID(006).png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services_materials/katalog-шаблоны/OOO-ID(007).png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services_materials\katalog-шаблоны\OOO-ID(007).png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services_materials/katalog-ostnastka/Colop-24x45.jpg
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services_materials\katalog-ostnastka\Colop-24x45.jpg
+Content Type: image/jpeg
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services_materials/katalog-ostnastka/COLOP-8x52.jpg
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services_materials\katalog-ostnastka\COLOP-8x52.jpg
+Content Type: image/jpeg
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services_materials/katalog-ostnastka/COLOPprinter-40x50.jpg
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services_materials\katalog-ostnastka\COLOPprinter-40x50.jpg
+Content Type: image/jpeg
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services_materials/katalog-ostnastka/COLOPprinter-q43.jpg
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services_materials\katalog-ostnastka\COLOPprinter-q43.jpg
+Content Type: image/jpeg
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services_materials/katalog-ostnastka/COLOPprinter-r12.jpg
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services_materials\katalog-ostnastka\COLOPprinter-r12.jpg
+Content Type: image/jpeg
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services_materials/katalog-ostnastka/COLOPprinter-r17.jpg
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services_materials\katalog-ostnastka\COLOPprinter-r17.jpg
+Content Type: image/jpeg
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services_materials/katalog-ostnastka/COLOPprinter-r249.jpg
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services_materials\katalog-ostnastka\COLOPprinter-r249.jpg
+Content Type: image/jpeg
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services_materials/katalog-ostnastka/COLOPprinter-r30-cover.jpg
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services_materials\katalog-ostnastka\COLOPprinter-r30-cover.jpg
+Content Type: image/jpeg
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services_materials/katalog-ostnastka/grm-r42-blue.jpg
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services_materials\katalog-ostnastka\grm-r42-blue.jpg
+Content Type: image/jpeg
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services_materials/katalog-ostnastka/ideal-46042.jpg
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services_materials\katalog-ostnastka\ideal-46042.jpg
+Content Type: image/jpeg
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services_materials/katalog-ostnastka/TRODAT 4918-75x15.jpg
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services_materials\katalog-ostnastka\TRODAT 4918-75x15.jpg
+Content Type: image/jpeg
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/services_materials/katalog-ostnastka/trodat_46019_blue.jpg
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\services_materials\katalog-ostnastka\trodat_46019_blue.jpg
+Content Type: image/jpeg
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/social/icons.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\social\icons.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/social/telegram-fill.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\social\telegram-fill.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/social/viber.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\social\viber.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/social/vk-social-network-logo.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\social\vk-social-network-logo.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/social/whatsapp-fill.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\social\whatsapp-fill.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/style-panel/switch_bg.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\style-panel\switch_bg.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/testimonials/quote_left.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\testimonials\quote_left.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/testimonials/quote_left_cyan.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\testimonials\quote_left_cyan.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/testimonials/quote_right.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\testimonials\quote_right.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/testimonials/quote_right_cyan.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\testimonials\quote_right_cyan.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/images/testimonials/testimonials_control.png
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\images\testimonials\testimonials_control.png
+Content Type: image/png
+
+Uri: https://voluble-lokum-25daa8.netlify.app/index.html
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\index.html
+Content Type: text/html
+
+Uri: https://voluble-lokum-25daa8.netlify.app/javascripts/app.js
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\javascripts\app.js
+Content Type: application/javascript
+
+Uri: https://voluble-lokum-25daa8.netlify.app/javascripts/jquery-1.7.1.js
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\javascripts\jquery-1.7.1.js
+Content Type: application/javascript
+
+Uri: https://voluble-lokum-25daa8.netlify.app/javascripts/terrific-1.1.1.js
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\javascripts\terrific-1.1.1.js
+Content Type: application/javascript
+
+Uri: https://voluble-lokum-25daa8.netlify.app/order_four.html
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\order_four.html
+Content Type: text/html
+
+Uri: https://voluble-lokum-25daa8.netlify.app/order_one.html
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\order_one.html
+Content Type: text/html
+
+Uri: https://voluble-lokum-25daa8.netlify.app/order_three.html
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\order_three.html
+Content Type: text/html
+
+Uri: https://voluble-lokum-25daa8.netlify.app/order_two.html
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\order_two.html
+Content Type: text/html
+
+Uri: https://voluble-lokum-25daa8.netlify.app/portfolio.html
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\portfolio.html
+Content Type: text/html
+
+Uri: https://voluble-lokum-25daa8.netlify.app/services.html
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\services.html
+Content Type: text/html
+
+Uri: https://voluble-lokum-25daa8.netlify.app/single.html
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\single.html
+Content Type: text/html
+
+Uri: https://voluble-lokum-25daa8.netlify.app/stylesheets/forms.css
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\stylesheets\forms.css
+Content Type: text/css
+
+Uri: https://voluble-lokum-25daa8.netlify.app/stylesheets/globals.css
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\stylesheets\globals.css
+Content Type: text/css
+
+Uri: https://voluble-lokum-25daa8.netlify.app/stylesheets/grid.css
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\stylesheets\grid.css
+Content Type: text/css
+
+Uri: https://voluble-lokum-25daa8.netlify.app/stylesheets/style.css
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\stylesheets\style.css
+Content Type: text/css
+
+Uri: https://voluble-lokum-25daa8.netlify.app/stylesheets/typography.css
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\stylesheets\typography.css
+Content Type: text/css
+
+Uri: https://voluble-lokum-25daa8.netlify.app/stylesheets/ui.css
+File Name: E:\6 Мои САЙТЫ\Печати-Штампы\voluble-lokum-25daa8.netlify.app\stylesheets\ui.css
+Content Type: text/css
+

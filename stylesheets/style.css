@@ -2109,11 +2109,127 @@ p.copy {
   width: 30px;
   height: 30px;
 }
+
+.order_form {
+  border: 2px solid #666666;
+  background-color: #ecece4;
+  width: 420px;
+  padding: 20px 20px 20px 20px;
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  margin: 0;
+}
+.form_group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.form_box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 90%;
+  height: 52px;
+}
+
+.form_box:not(.form_comments) {
+  border-bottom: 3px dotted #666666;
+}
+
+.form_box label{
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
+}
+
+.form_box input, select{
+  width: 200px;
+  height: 30px;
+  border-radius: 4px;
+  border: 1px solid #666666;
+  font-size: 18px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 0;
+  padding: 0 0 0 20px;
+}
+
+.form_box input{
+  max-width: 178.4px;
+}
+
+.form_counter{
+  height: 30px;
+  width: 30px;
+  font-size: 18px;
+  background-color: #fff;
+  border: 2px solid grey;
+  border-radius: 50%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2px 0 0 0;
+}
+
+.submit-button {
+  position: relative;
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 12px 0;
+  font-size: 26px;
+  background-color: red;
+  opacity: 1;
+  color: #fff;
+  text-align: center;
+  overflow: hidden;
+  display: block;
+  transition: all 0.4s ease;
+}
+
+.submit-button::after {
+  content: 'Сделать заказ';
+  position: absolute;
+  top: -100%;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.4s ease;
+}
+
+.submit-button:hover::after {
+  top: -3px;
+}
+
+.submit-button span{
+  opacity: 1;
+  transition: all 0.4s ease;
+}
+
+.submit-button:hover span {
+  opacity: 0;
+}
+
 .order {
   display: flex;
   justify-content: center;
+  gap: 6px;
   margin-bottom: 20px;
 }
+
+.order_images {
+  width: 400px;
+}
+
 .title_ord {
   display: flex;
   align-items: center;
@@ -2124,27 +2240,33 @@ p.copy {
 .order_titles {
   border: 2px solid #666666;
   background-color: #ecece4;
-  width: 400px;
+  width: 370px;
   height: 87vh;
+  padding: 0px 40px 0px 25px;
 }
-.order_input {
-  margin-right: 45px;
-}
+
 .number {
-  margin-right: 5px;
-  height: 25px;
-  width: 25px;
+  margin-right: 15px;
+  height: 35px;
+  width: 35px;
   background-color: #fff;
   border: 2px solid grey;
   border-radius: 50%;
   text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
+.number span{
+  font-size: 22px;
+}
+
 .title {
   margin-right: 20px;
 }
 .title_ord {
-  padding-top: 30px;
-  padding-left:20px;
+  padding-top: 26px;
 }
 .title p {
   margin: 0;
@@ -2161,20 +2283,26 @@ p.copy {
   align-items: center;
 }
 .order_input input {
-  margin-top: 5px;
-  width: 150px;
+  width: 158.4px;
+  height: 30px;
+  padding: 0px;
+  border-radius: 6px;
   font-size: 9px;
   text-align: center;
+  border:1px solid #666666;
 }
 .order_input select {
-  width: 150px;
+  width: 160px;
+  height: 30px;
+  border-radius: 6px;
   text-align: center;
 }
 .order_input label {
   cursor: pointer;
-  padding: 0 55px 0 55px;
+  padding: 5px 53.5px;
   background-color: #fff;
   border:1px solid #666666;
+  border-radius: 6px;
   color: #666666;
   margin-right: 0 auto;
 }
@@ -2206,7 +2334,9 @@ p.copy {
 .counter {
   text-align: center;
   border: 1px solid #666666;
-  width: 150px;
+  width: 160px;
+  height: 30px;
+  border-radius: 6px;
   background-color: #fff;
 }
 .counter button {
@@ -2226,33 +2356,52 @@ p.copy {
   border-right: 1px solid #666666;
   padding: 0 40px;
 }
+
 .order_img_one {
+  position: relative;
+  padding: 40px 20px 40px 20px;
   background-color: #fff;
   border: 2px solid #666666;
-  margin-left: 20px;
 }
-.order_img_one img:nth-child(1) {
-  height: 260px;
-  width: 310px;
+.order_img_one img {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
 }
-.order_img_one img:nth-child(2) {
-  height: 278px;
-  width: 310px;
-}
-.pricee {
+
+.order_img_text {
+  position: absolute;
+  right: 5px;
+  top: 30px;
   text-align: right;
   font-family: 'Oswald';
-  color: blue;
-  font-size: 26px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-size: 24px;
+  margin: 10px;
+}
+
+.pricee {
+  position: absolute;
+  right: 5px;
+  bottom: 30px;
+  text-align: right;
+  font-family: 'Oswald';
+  color: red;
+  font-weight: bold;
+  font-size: 36px;
   margin: 10px;
 }
 .ides {
   display: flex;
   justify-content: space-between;
-  margin: 10px;
+  margin: 0 10px;
   font-size: 26px;
   color: #666666;
   font-family: 'Oswald';
+}
+.ides p{
+  margin: 0 0 10px;
 }
 .popup_title {
   display: flex;
